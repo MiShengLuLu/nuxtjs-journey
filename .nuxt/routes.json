@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/meilingli/self-learning/self-learning/03-03/realword-nuxtjs/pages/article"
+      }
+    ]
+  }
+]

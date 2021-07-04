@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "nuxtjs-journey",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
